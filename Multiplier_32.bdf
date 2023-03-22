@@ -4,9 +4,9 @@ editor if you plan to continue editing the block that represents it in
 the Block Editor! File corruption is VERY likely to occur.
 */
 /*
-Copyright (C) 2018  Intel Corporation. All rights reserved.
+Copyright (C) 2020  Intel Corporation. All rights reserved.
 Your use of Intel Corporation's design tools, logic functions 
-and other software and tools, and its AMPP partner logic 
+and other software and tools, and any partner logic 
 functions, and any output files from any of the foregoing 
 (including device programming or simulation files), and any 
 associated documentation or information are expressly subject 
@@ -16,7 +16,8 @@ the Intel FPGA IP License Agreement, or other applicable license
 agreement, including, without limitation, that your use is for
 the sole purpose of programming logic devices manufactured by
 Intel and sold by Intel or its authorized distributors.  Please
-refer to the applicable agreement for further details.
+refer to the applicable agreement for further details, at
+https://fpgasoftware.intel.com/eula.
 */
 (header "graphic" (version "1.4"))
 (pin
@@ -107259,6 +107260,4366 @@ refer to the applicable agreement for further details.
 (connector
 	(pt 4752 12000)
 	(pt 4752 12072)
+)
+(connector
+	(pt 9976 936)
+	(pt 9976 976)
+)
+(connector
+	(pt 9976 976)
+	(pt 10016 976)
+)
+(connector
+	(pt 10016 976)
+	(pt 10016 1112)
+)
+(connector
+	(pt 10016 1112)
+	(pt 9984 1112)
+)
+(connector
+	(pt 9984 1112)
+	(pt 9984 1128)
+)
+(connector
+	(pt 9824 936)
+	(pt 9824 960)
+)
+(connector
+	(pt 9824 960)
+	(pt 9776 960)
+)
+(connector
+	(pt 9776 960)
+	(pt 9776 1096)
+)
+(connector
+	(pt 9800 1096)
+	(pt 9800 1128)
+)
+(connector
+	(pt 9776 1096)
+	(pt 9800 1096)
+)
+(connector
+	(pt 9672 936)
+	(pt 9672 960)
+)
+(connector
+	(pt 9672 960)
+	(pt 9624 960)
+)
+(connector
+	(pt 9624 960)
+	(pt 9624 1096)
+)
+(connector
+	(pt 9648 1096)
+	(pt 9648 1128)
+)
+(connector
+	(pt 9624 1096)
+	(pt 9648 1096)
+)
+(connector
+	(pt 9512 936)
+	(pt 9512 960)
+)
+(connector
+	(pt 9512 960)
+	(pt 9464 960)
+)
+(connector
+	(pt 9464 960)
+	(pt 9464 1096)
+)
+(connector
+	(pt 9360 936)
+	(pt 9360 960)
+)
+(connector
+	(pt 9360 960)
+	(pt 9312 960)
+)
+(connector
+	(pt 9312 960)
+	(pt 9312 1096)
+)
+(connector
+	(pt 9336 1096)
+	(pt 9336 1128)
+)
+(connector
+	(pt 9312 1096)
+	(pt 9336 1096)
+)
+(connector
+	(pt 9208 936)
+	(pt 9208 960)
+)
+(connector
+	(pt 9208 960)
+	(pt 9160 960)
+)
+(connector
+	(pt 9160 960)
+	(pt 9160 1096)
+)
+(connector
+	(pt 9184 1096)
+	(pt 9184 1128)
+)
+(connector
+	(pt 9160 1096)
+	(pt 9184 1096)
+)
+(connector
+	(pt 9056 936)
+	(pt 9056 960)
+)
+(connector
+	(pt 9056 960)
+	(pt 9008 960)
+)
+(connector
+	(pt 9008 960)
+	(pt 9008 1096)
+)
+(connector
+	(pt 9032 1096)
+	(pt 9032 1128)
+)
+(connector
+	(pt 9008 1096)
+	(pt 9032 1096)
+)
+(connector
+	(pt 8904 936)
+	(pt 8904 960)
+)
+(connector
+	(pt 8904 960)
+	(pt 8856 960)
+)
+(connector
+	(pt 8856 960)
+	(pt 8856 1096)
+)
+(connector
+	(pt 8880 1096)
+	(pt 8880 1128)
+)
+(connector
+	(pt 8856 1096)
+	(pt 8880 1096)
+)
+(connector
+	(pt 8608 936)
+	(pt 8608 960)
+)
+(connector
+	(pt 8608 960)
+	(pt 8560 960)
+)
+(connector
+	(pt 8560 960)
+	(pt 8560 1096)
+)
+(connector
+	(pt 8584 1096)
+	(pt 8584 1128)
+)
+(connector
+	(pt 8560 1096)
+	(pt 8584 1096)
+)
+(connector
+	(pt 8760 936)
+	(pt 8760 960)
+)
+(connector
+	(pt 8760 960)
+	(pt 8712 960)
+)
+(connector
+	(pt 8712 960)
+	(pt 8712 1096)
+)
+(connector
+	(pt 8728 1104)
+	(pt 8736 1104)
+)
+(connector
+	(pt 8728 1128)
+	(pt 8728 1104)
+)
+(connector
+	(pt 8736 1104)
+	(pt 8736 1096)
+)
+(connector
+	(pt 8712 1096)
+	(pt 8736 1096)
+)
+(connector
+	(pt 8456 936)
+	(pt 8456 960)
+)
+(connector
+	(pt 8456 960)
+	(pt 8408 960)
+)
+(connector
+	(pt 8408 960)
+	(pt 8408 1096)
+)
+(connector
+	(pt 8432 1096)
+	(pt 8432 1128)
+)
+(connector
+	(pt 8408 1096)
+	(pt 8432 1096)
+)
+(connector
+	(pt 8304 936)
+	(pt 8304 960)
+)
+(connector
+	(pt 8304 960)
+	(pt 8256 960)
+)
+(connector
+	(pt 8256 960)
+	(pt 8256 1096)
+)
+(connector
+	(pt 8280 1096)
+	(pt 8280 1128)
+)
+(connector
+	(pt 8256 1096)
+	(pt 8280 1096)
+)
+(connector
+	(pt 8152 936)
+	(pt 8152 960)
+)
+(connector
+	(pt 8152 960)
+	(pt 8104 960)
+)
+(connector
+	(pt 8104 960)
+	(pt 8104 1096)
+)
+(connector
+	(pt 8128 1096)
+	(pt 8128 1128)
+)
+(connector
+	(pt 8104 1096)
+	(pt 8128 1096)
+)
+(connector
+	(pt 8000 936)
+	(pt 8000 960)
+)
+(connector
+	(pt 8000 960)
+	(pt 7952 960)
+)
+(connector
+	(pt 7952 960)
+	(pt 7952 1096)
+)
+(connector
+	(pt 7976 1096)
+	(pt 7976 1128)
+)
+(connector
+	(pt 7952 1096)
+	(pt 7976 1096)
+)
+(connector
+	(pt 7848 936)
+	(pt 7848 960)
+)
+(connector
+	(pt 7848 960)
+	(pt 7800 960)
+)
+(connector
+	(pt 7800 960)
+	(pt 7800 1096)
+)
+(connector
+	(pt 7824 1096)
+	(pt 7824 1128)
+)
+(connector
+	(pt 7800 1096)
+	(pt 7824 1096)
+)
+(connector
+	(pt 7696 936)
+	(pt 7696 960)
+)
+(connector
+	(pt 7696 960)
+	(pt 7648 960)
+)
+(connector
+	(pt 7648 960)
+	(pt 7648 1096)
+)
+(connector
+	(pt 7672 1096)
+	(pt 7672 1128)
+)
+(connector
+	(pt 7648 1096)
+	(pt 7672 1096)
+)
+(connector
+	(pt 7544 936)
+	(pt 7544 960)
+)
+(connector
+	(pt 7544 960)
+	(pt 7496 960)
+)
+(connector
+	(pt 7496 960)
+	(pt 7496 1096)
+)
+(connector
+	(pt 7520 1096)
+	(pt 7520 1128)
+)
+(connector
+	(pt 7496 1096)
+	(pt 7520 1096)
+)
+(connector
+	(pt 7392 936)
+	(pt 7392 960)
+)
+(connector
+	(pt 7392 960)
+	(pt 7344 960)
+)
+(connector
+	(pt 7344 960)
+	(pt 7344 1096)
+)
+(connector
+	(pt 7368 1096)
+	(pt 7368 1128)
+)
+(connector
+	(pt 7344 1096)
+	(pt 7368 1096)
+)
+(connector
+	(pt 7240 936)
+	(pt 7240 960)
+)
+(connector
+	(pt 7240 960)
+	(pt 7192 960)
+)
+(connector
+	(pt 7192 960)
+	(pt 7192 1096)
+)
+(connector
+	(pt 7216 1096)
+	(pt 7216 1128)
+)
+(connector
+	(pt 7192 1096)
+	(pt 7216 1096)
+)
+(connector
+	(pt 7088 936)
+	(pt 7088 960)
+)
+(connector
+	(pt 7088 960)
+	(pt 7040 960)
+)
+(connector
+	(pt 7040 960)
+	(pt 7040 1096)
+)
+(connector
+	(pt 7064 1096)
+	(pt 7064 1128)
+)
+(connector
+	(pt 7040 1096)
+	(pt 7064 1096)
+)
+(connector
+	(pt 6936 936)
+	(pt 6936 960)
+)
+(connector
+	(pt 6936 960)
+	(pt 6888 960)
+)
+(connector
+	(pt 6888 960)
+	(pt 6888 1096)
+)
+(connector
+	(pt 6912 1096)
+	(pt 6912 1128)
+)
+(connector
+	(pt 6888 1096)
+	(pt 6912 1096)
+)
+(connector
+	(pt 6784 936)
+	(pt 6784 960)
+)
+(connector
+	(pt 6784 960)
+	(pt 6736 960)
+)
+(connector
+	(pt 6736 960)
+	(pt 6736 1096)
+)
+(connector
+	(pt 6760 1096)
+	(pt 6760 1128)
+)
+(connector
+	(pt 6736 1096)
+	(pt 6760 1096)
+)
+(connector
+	(pt 6632 936)
+	(pt 6632 960)
+)
+(connector
+	(pt 6632 960)
+	(pt 6584 960)
+)
+(connector
+	(pt 6584 960)
+	(pt 6584 1096)
+)
+(connector
+	(pt 6608 1096)
+	(pt 6608 1128)
+)
+(connector
+	(pt 6584 1096)
+	(pt 6608 1096)
+)
+(connector
+	(pt 6480 936)
+	(pt 6480 960)
+)
+(connector
+	(pt 6480 960)
+	(pt 6432 960)
+)
+(connector
+	(pt 6432 960)
+	(pt 6432 1096)
+)
+(connector
+	(pt 6456 1096)
+	(pt 6456 1128)
+)
+(connector
+	(pt 6432 1096)
+	(pt 6456 1096)
+)
+(connector
+	(pt 6328 936)
+	(pt 6328 960)
+)
+(connector
+	(pt 6328 960)
+	(pt 6280 960)
+)
+(connector
+	(pt 6280 960)
+	(pt 6280 1096)
+)
+(connector
+	(pt 6304 1096)
+	(pt 6304 1128)
+)
+(connector
+	(pt 6280 1096)
+	(pt 6304 1096)
+)
+(connector
+	(pt 6176 936)
+	(pt 6176 960)
+)
+(connector
+	(pt 6176 960)
+	(pt 6128 960)
+)
+(connector
+	(pt 6128 960)
+	(pt 6128 1096)
+)
+(connector
+	(pt 6152 1096)
+	(pt 6152 1128)
+)
+(connector
+	(pt 6128 1096)
+	(pt 6152 1096)
+)
+(connector
+	(pt 6024 936)
+	(pt 6024 960)
+)
+(connector
+	(pt 6024 960)
+	(pt 5976 960)
+)
+(connector
+	(pt 5976 960)
+	(pt 5976 1096)
+)
+(connector
+	(pt 6000 1096)
+	(pt 6000 1128)
+)
+(connector
+	(pt 5976 1096)
+	(pt 6000 1096)
+)
+(connector
+	(pt 5872 936)
+	(pt 5872 960)
+)
+(connector
+	(pt 5872 960)
+	(pt 5824 960)
+)
+(connector
+	(pt 5824 960)
+	(pt 5824 1096)
+)
+(connector
+	(pt 5848 1096)
+	(pt 5848 1128)
+)
+(connector
+	(pt 5824 1096)
+	(pt 5848 1096)
+)
+(connector
+	(pt 5720 936)
+	(pt 5720 960)
+)
+(connector
+	(pt 5720 960)
+	(pt 5672 960)
+)
+(connector
+	(pt 5672 960)
+	(pt 5672 1096)
+)
+(connector
+	(pt 5696 1096)
+	(pt 5696 1128)
+)
+(connector
+	(pt 5672 1096)
+	(pt 5696 1096)
+)
+(connector
+	(pt 5568 936)
+	(pt 5568 960)
+)
+(connector
+	(pt 5568 960)
+	(pt 5520 960)
+)
+(connector
+	(pt 5520 960)
+	(pt 5520 1096)
+)
+(connector
+	(pt 5544 1096)
+	(pt 5544 1128)
+)
+(connector
+	(pt 5520 1096)
+	(pt 5544 1096)
+)
+(connector
+	(pt 5416 936)
+	(pt 5416 960)
+)
+(connector
+	(pt 5392 1096)
+	(pt 5392 1128)
+)
+(connector
+	(pt 5416 960)
+	(pt 5368 960)
+)
+(connector
+	(pt 5368 960)
+	(pt 5368 1096)
+)
+(connector
+	(pt 5392 1096)
+	(pt 5368 1096)
+)
+(connector
+	(pt 9496 1096)
+	(pt 9496 1128)
+)
+(connector
+	(pt 9464 1096)
+	(pt 9496 1096)
+)
+(connector
+	(pt 14920 1048)
+	(pt 14920 1088)
+)
+(connector
+	(pt 14920 1088)
+	(pt 14960 1088)
+)
+(connector
+	(pt 14960 1088)
+	(pt 14960 1224)
+)
+(connector
+	(pt 14960 1224)
+	(pt 14928 1224)
+)
+(connector
+	(pt 14928 1224)
+	(pt 14928 1240)
+)
+(connector
+	(pt 14768 1048)
+	(pt 14768 1072)
+)
+(connector
+	(pt 14768 1072)
+	(pt 14720 1072)
+)
+(connector
+	(pt 14720 1072)
+	(pt 14720 1208)
+)
+(connector
+	(pt 14744 1208)
+	(pt 14744 1240)
+)
+(connector
+	(pt 14720 1208)
+	(pt 14744 1208)
+)
+(connector
+	(pt 14616 1048)
+	(pt 14616 1072)
+)
+(connector
+	(pt 14616 1072)
+	(pt 14568 1072)
+)
+(connector
+	(pt 14568 1072)
+	(pt 14568 1208)
+)
+(connector
+	(pt 14592 1208)
+	(pt 14592 1240)
+)
+(connector
+	(pt 14568 1208)
+	(pt 14592 1208)
+)
+(connector
+	(pt 14456 1048)
+	(pt 14456 1072)
+)
+(connector
+	(pt 14456 1072)
+	(pt 14408 1072)
+)
+(connector
+	(pt 14408 1072)
+	(pt 14408 1208)
+)
+(connector
+	(pt 14304 1048)
+	(pt 14304 1072)
+)
+(connector
+	(pt 14304 1072)
+	(pt 14256 1072)
+)
+(connector
+	(pt 14256 1072)
+	(pt 14256 1208)
+)
+(connector
+	(pt 14280 1208)
+	(pt 14280 1240)
+)
+(connector
+	(pt 14256 1208)
+	(pt 14280 1208)
+)
+(connector
+	(pt 14152 1048)
+	(pt 14152 1072)
+)
+(connector
+	(pt 14152 1072)
+	(pt 14104 1072)
+)
+(connector
+	(pt 14104 1072)
+	(pt 14104 1208)
+)
+(connector
+	(pt 14128 1208)
+	(pt 14128 1240)
+)
+(connector
+	(pt 14104 1208)
+	(pt 14128 1208)
+)
+(connector
+	(pt 14000 1048)
+	(pt 14000 1072)
+)
+(connector
+	(pt 14000 1072)
+	(pt 13952 1072)
+)
+(connector
+	(pt 13952 1072)
+	(pt 13952 1208)
+)
+(connector
+	(pt 13976 1208)
+	(pt 13976 1240)
+)
+(connector
+	(pt 13952 1208)
+	(pt 13976 1208)
+)
+(connector
+	(pt 13848 1048)
+	(pt 13848 1072)
+)
+(connector
+	(pt 13848 1072)
+	(pt 13800 1072)
+)
+(connector
+	(pt 13800 1072)
+	(pt 13800 1208)
+)
+(connector
+	(pt 13824 1208)
+	(pt 13824 1240)
+)
+(connector
+	(pt 13800 1208)
+	(pt 13824 1208)
+)
+(connector
+	(pt 13552 1048)
+	(pt 13552 1072)
+)
+(connector
+	(pt 13552 1072)
+	(pt 13504 1072)
+)
+(connector
+	(pt 13504 1072)
+	(pt 13504 1208)
+)
+(connector
+	(pt 13528 1208)
+	(pt 13528 1240)
+)
+(connector
+	(pt 13504 1208)
+	(pt 13528 1208)
+)
+(connector
+	(pt 13704 1048)
+	(pt 13704 1072)
+)
+(connector
+	(pt 13704 1072)
+	(pt 13656 1072)
+)
+(connector
+	(pt 13656 1072)
+	(pt 13656 1208)
+)
+(connector
+	(pt 13672 1216)
+	(pt 13680 1216)
+)
+(connector
+	(pt 13672 1240)
+	(pt 13672 1216)
+)
+(connector
+	(pt 13680 1216)
+	(pt 13680 1208)
+)
+(connector
+	(pt 13656 1208)
+	(pt 13680 1208)
+)
+(connector
+	(pt 13400 1048)
+	(pt 13400 1072)
+)
+(connector
+	(pt 13400 1072)
+	(pt 13352 1072)
+)
+(connector
+	(pt 13352 1072)
+	(pt 13352 1208)
+)
+(connector
+	(pt 13376 1208)
+	(pt 13376 1240)
+)
+(connector
+	(pt 13352 1208)
+	(pt 13376 1208)
+)
+(connector
+	(pt 13248 1048)
+	(pt 13248 1072)
+)
+(connector
+	(pt 13248 1072)
+	(pt 13200 1072)
+)
+(connector
+	(pt 13200 1072)
+	(pt 13200 1208)
+)
+(connector
+	(pt 13224 1208)
+	(pt 13224 1240)
+)
+(connector
+	(pt 13200 1208)
+	(pt 13224 1208)
+)
+(connector
+	(pt 13096 1048)
+	(pt 13096 1072)
+)
+(connector
+	(pt 13096 1072)
+	(pt 13048 1072)
+)
+(connector
+	(pt 13048 1072)
+	(pt 13048 1208)
+)
+(connector
+	(pt 13072 1208)
+	(pt 13072 1240)
+)
+(connector
+	(pt 13048 1208)
+	(pt 13072 1208)
+)
+(connector
+	(pt 12944 1048)
+	(pt 12944 1072)
+)
+(connector
+	(pt 12944 1072)
+	(pt 12896 1072)
+)
+(connector
+	(pt 12896 1072)
+	(pt 12896 1208)
+)
+(connector
+	(pt 12920 1208)
+	(pt 12920 1240)
+)
+(connector
+	(pt 12896 1208)
+	(pt 12920 1208)
+)
+(connector
+	(pt 12792 1048)
+	(pt 12792 1072)
+)
+(connector
+	(pt 12792 1072)
+	(pt 12744 1072)
+)
+(connector
+	(pt 12744 1072)
+	(pt 12744 1208)
+)
+(connector
+	(pt 12768 1208)
+	(pt 12768 1240)
+)
+(connector
+	(pt 12744 1208)
+	(pt 12768 1208)
+)
+(connector
+	(pt 12640 1048)
+	(pt 12640 1072)
+)
+(connector
+	(pt 12640 1072)
+	(pt 12592 1072)
+)
+(connector
+	(pt 12592 1072)
+	(pt 12592 1208)
+)
+(connector
+	(pt 12616 1208)
+	(pt 12616 1240)
+)
+(connector
+	(pt 12592 1208)
+	(pt 12616 1208)
+)
+(connector
+	(pt 12488 1048)
+	(pt 12488 1072)
+)
+(connector
+	(pt 12488 1072)
+	(pt 12440 1072)
+)
+(connector
+	(pt 12440 1072)
+	(pt 12440 1208)
+)
+(connector
+	(pt 12464 1208)
+	(pt 12464 1240)
+)
+(connector
+	(pt 12440 1208)
+	(pt 12464 1208)
+)
+(connector
+	(pt 12336 1048)
+	(pt 12336 1072)
+)
+(connector
+	(pt 12336 1072)
+	(pt 12288 1072)
+)
+(connector
+	(pt 12288 1072)
+	(pt 12288 1208)
+)
+(connector
+	(pt 12312 1208)
+	(pt 12312 1240)
+)
+(connector
+	(pt 12288 1208)
+	(pt 12312 1208)
+)
+(connector
+	(pt 12184 1048)
+	(pt 12184 1072)
+)
+(connector
+	(pt 12184 1072)
+	(pt 12136 1072)
+)
+(connector
+	(pt 12136 1072)
+	(pt 12136 1208)
+)
+(connector
+	(pt 12160 1208)
+	(pt 12160 1240)
+)
+(connector
+	(pt 12136 1208)
+	(pt 12160 1208)
+)
+(connector
+	(pt 12032 1048)
+	(pt 12032 1072)
+)
+(connector
+	(pt 12032 1072)
+	(pt 11984 1072)
+)
+(connector
+	(pt 11984 1072)
+	(pt 11984 1208)
+)
+(connector
+	(pt 12008 1208)
+	(pt 12008 1240)
+)
+(connector
+	(pt 11984 1208)
+	(pt 12008 1208)
+)
+(connector
+	(pt 11880 1048)
+	(pt 11880 1072)
+)
+(connector
+	(pt 11880 1072)
+	(pt 11832 1072)
+)
+(connector
+	(pt 11832 1072)
+	(pt 11832 1208)
+)
+(connector
+	(pt 11856 1208)
+	(pt 11856 1240)
+)
+(connector
+	(pt 11832 1208)
+	(pt 11856 1208)
+)
+(connector
+	(pt 11728 1048)
+	(pt 11728 1072)
+)
+(connector
+	(pt 11728 1072)
+	(pt 11680 1072)
+)
+(connector
+	(pt 11680 1072)
+	(pt 11680 1208)
+)
+(connector
+	(pt 11704 1208)
+	(pt 11704 1240)
+)
+(connector
+	(pt 11680 1208)
+	(pt 11704 1208)
+)
+(connector
+	(pt 11576 1048)
+	(pt 11576 1072)
+)
+(connector
+	(pt 11576 1072)
+	(pt 11528 1072)
+)
+(connector
+	(pt 11528 1072)
+	(pt 11528 1208)
+)
+(connector
+	(pt 11552 1208)
+	(pt 11552 1240)
+)
+(connector
+	(pt 11528 1208)
+	(pt 11552 1208)
+)
+(connector
+	(pt 11424 1048)
+	(pt 11424 1072)
+)
+(connector
+	(pt 11424 1072)
+	(pt 11376 1072)
+)
+(connector
+	(pt 11376 1072)
+	(pt 11376 1208)
+)
+(connector
+	(pt 11400 1208)
+	(pt 11400 1240)
+)
+(connector
+	(pt 11376 1208)
+	(pt 11400 1208)
+)
+(connector
+	(pt 11272 1048)
+	(pt 11272 1072)
+)
+(connector
+	(pt 11272 1072)
+	(pt 11224 1072)
+)
+(connector
+	(pt 11224 1072)
+	(pt 11224 1208)
+)
+(connector
+	(pt 11248 1208)
+	(pt 11248 1240)
+)
+(connector
+	(pt 11224 1208)
+	(pt 11248 1208)
+)
+(connector
+	(pt 11120 1048)
+	(pt 11120 1072)
+)
+(connector
+	(pt 11120 1072)
+	(pt 11072 1072)
+)
+(connector
+	(pt 11072 1072)
+	(pt 11072 1208)
+)
+(connector
+	(pt 11096 1208)
+	(pt 11096 1240)
+)
+(connector
+	(pt 11072 1208)
+	(pt 11096 1208)
+)
+(connector
+	(pt 10968 1048)
+	(pt 10968 1072)
+)
+(connector
+	(pt 14440 1208)
+	(pt 14440 1240)
+)
+(connector
+	(pt 14408 1208)
+	(pt 14440 1208)
+)
+(connector
+	(pt 9816 1224)
+	(pt 9816 1272)
+)
+(connector
+	(pt 9816 1272)
+	(pt 9880 1272)
+)
+(connector
+	(pt 9880 1272)
+	(pt 9880 1392)
+)
+(connector
+	(pt 9880 1392)
+	(pt 9832 1392)
+)
+(connector
+	(pt 9832 1392)
+	(pt 9832 1424)
+)
+(connector
+	(pt 10952 1072)
+	(pt 10968 1072)
+)
+(connector
+	(pt 9664 1224)
+	(pt 9664 1256)
+)
+(connector
+	(pt 9624 1256)
+	(pt 9664 1256)
+)
+(connector
+	(pt 9624 1256)
+	(pt 9624 1384)
+)
+(connector
+	(pt 9624 1384)
+	(pt 9648 1384)
+)
+(connector
+	(pt 9648 1384)
+	(pt 9648 1424)
+)
+(connector
+	(pt 9512 1224)
+	(pt 9512 1256)
+)
+(connector
+	(pt 9472 1256)
+	(pt 9512 1256)
+)
+(connector
+	(pt 9472 1256)
+	(pt 9472 1384)
+)
+(connector
+	(pt 9472 1384)
+	(pt 9496 1384)
+)
+(connector
+	(pt 9496 1384)
+	(pt 9496 1424)
+)
+(connector
+	(pt 9352 1248)
+	(pt 9360 1248)
+)
+(connector
+	(pt 9352 1224)
+	(pt 9352 1248)
+)
+(connector
+	(pt 9360 1248)
+	(pt 9360 1256)
+)
+(connector
+	(pt 9320 1256)
+	(pt 9360 1256)
+)
+(connector
+	(pt 9320 1256)
+	(pt 9320 1384)
+)
+(connector
+	(pt 9320 1384)
+	(pt 9344 1384)
+)
+(connector
+	(pt 9344 1384)
+	(pt 9344 1424)
+)
+(connector
+	(pt 9200 1224)
+	(pt 9200 1256)
+)
+(connector
+	(pt 9160 1256)
+	(pt 9200 1256)
+)
+(connector
+	(pt 9160 1256)
+	(pt 9160 1384)
+)
+(connector
+	(pt 9160 1384)
+	(pt 9184 1384)
+)
+(connector
+	(pt 9184 1384)
+	(pt 9184 1424)
+)
+(connector
+	(pt 9048 1224)
+	(pt 9048 1256)
+)
+(connector
+	(pt 9008 1256)
+	(pt 9048 1256)
+)
+(connector
+	(pt 9008 1256)
+	(pt 9008 1384)
+)
+(connector
+	(pt 9008 1384)
+	(pt 9032 1384)
+)
+(connector
+	(pt 9032 1384)
+	(pt 9032 1424)
+)
+(connector
+	(pt 8896 1224)
+	(pt 8896 1256)
+)
+(connector
+	(pt 8856 1256)
+	(pt 8896 1256)
+)
+(connector
+	(pt 8856 1256)
+	(pt 8856 1384)
+)
+(connector
+	(pt 8856 1384)
+	(pt 8880 1384)
+)
+(connector
+	(pt 8880 1384)
+	(pt 8880 1424)
+)
+(connector
+	(pt 8744 1224)
+	(pt 8744 1256)
+)
+(connector
+	(pt 8704 1256)
+	(pt 8744 1256)
+)
+(connector
+	(pt 8704 1256)
+	(pt 8704 1384)
+)
+(connector
+	(pt 8704 1384)
+	(pt 8728 1384)
+)
+(connector
+	(pt 8728 1384)
+	(pt 8728 1424)
+)
+(connector
+	(pt 8552 1256)
+	(pt 8552 1384)
+)
+(connector
+	(pt 8552 1384)
+	(pt 8576 1384)
+)
+(connector
+	(pt 8576 1384)
+	(pt 8576 1424)
+)
+(connector
+	(pt 8600 1256)
+	(pt 8600 1224)
+)
+(connector
+	(pt 8552 1256)
+	(pt 8600 1256)
+)
+(connector
+	(pt 8448 1224)
+	(pt 8448 1256)
+)
+(connector
+	(pt 8408 1256)
+	(pt 8448 1256)
+)
+(connector
+	(pt 8408 1256)
+	(pt 8408 1384)
+)
+(connector
+	(pt 8408 1384)
+	(pt 8432 1384)
+)
+(connector
+	(pt 8432 1384)
+	(pt 8432 1424)
+)
+(connector
+	(pt 8296 1224)
+	(pt 8296 1256)
+)
+(connector
+	(pt 8256 1256)
+	(pt 8296 1256)
+)
+(connector
+	(pt 8256 1256)
+	(pt 8256 1384)
+)
+(connector
+	(pt 8256 1384)
+	(pt 8280 1384)
+)
+(connector
+	(pt 8280 1384)
+	(pt 8280 1424)
+)
+(connector
+	(pt 8144 1224)
+	(pt 8144 1256)
+)
+(connector
+	(pt 8104 1256)
+	(pt 8144 1256)
+)
+(connector
+	(pt 8104 1256)
+	(pt 8104 1384)
+)
+(connector
+	(pt 8104 1384)
+	(pt 8128 1384)
+)
+(connector
+	(pt 8128 1384)
+	(pt 8128 1424)
+)
+(connector
+	(pt 7992 1224)
+	(pt 7992 1256)
+)
+(connector
+	(pt 7952 1256)
+	(pt 7992 1256)
+)
+(connector
+	(pt 7952 1256)
+	(pt 7952 1384)
+)
+(connector
+	(pt 7952 1384)
+	(pt 7976 1384)
+)
+(connector
+	(pt 7976 1384)
+	(pt 7976 1424)
+)
+(connector
+	(pt 7840 1224)
+	(pt 7840 1256)
+)
+(connector
+	(pt 7800 1256)
+	(pt 7840 1256)
+)
+(connector
+	(pt 7800 1256)
+	(pt 7800 1384)
+)
+(connector
+	(pt 7800 1384)
+	(pt 7824 1384)
+)
+(connector
+	(pt 7824 1384)
+	(pt 7824 1424)
+)
+(connector
+	(pt 7688 1224)
+	(pt 7688 1256)
+)
+(connector
+	(pt 7648 1256)
+	(pt 7688 1256)
+)
+(connector
+	(pt 7648 1256)
+	(pt 7648 1384)
+)
+(connector
+	(pt 7648 1384)
+	(pt 7672 1384)
+)
+(connector
+	(pt 7672 1384)
+	(pt 7672 1424)
+)
+(connector
+	(pt 7536 1224)
+	(pt 7536 1256)
+)
+(connector
+	(pt 7496 1256)
+	(pt 7536 1256)
+)
+(connector
+	(pt 7496 1256)
+	(pt 7496 1384)
+)
+(connector
+	(pt 7496 1384)
+	(pt 7520 1384)
+)
+(connector
+	(pt 7520 1384)
+	(pt 7520 1424)
+)
+(connector
+	(pt 7384 1224)
+	(pt 7384 1256)
+)
+(connector
+	(pt 7344 1256)
+	(pt 7384 1256)
+)
+(connector
+	(pt 7344 1256)
+	(pt 7344 1384)
+)
+(connector
+	(pt 7344 1384)
+	(pt 7368 1384)
+)
+(connector
+	(pt 7368 1384)
+	(pt 7368 1424)
+)
+(connector
+	(pt 7232 1224)
+	(pt 7232 1256)
+)
+(connector
+	(pt 7192 1256)
+	(pt 7232 1256)
+)
+(connector
+	(pt 7192 1256)
+	(pt 7192 1384)
+)
+(connector
+	(pt 7192 1384)
+	(pt 7216 1384)
+)
+(connector
+	(pt 7216 1384)
+	(pt 7216 1424)
+)
+(connector
+	(pt 7080 1224)
+	(pt 7080 1256)
+)
+(connector
+	(pt 7040 1256)
+	(pt 7080 1256)
+)
+(connector
+	(pt 7040 1256)
+	(pt 7040 1384)
+)
+(connector
+	(pt 7040 1384)
+	(pt 7064 1384)
+)
+(connector
+	(pt 7064 1384)
+	(pt 7064 1424)
+)
+(connector
+	(pt 6928 1224)
+	(pt 6928 1256)
+)
+(connector
+	(pt 6888 1256)
+	(pt 6928 1256)
+)
+(connector
+	(pt 6888 1256)
+	(pt 6888 1384)
+)
+(connector
+	(pt 6888 1384)
+	(pt 6912 1384)
+)
+(connector
+	(pt 6912 1384)
+	(pt 6912 1424)
+)
+(connector
+	(pt 6776 1224)
+	(pt 6776 1256)
+)
+(connector
+	(pt 6736 1256)
+	(pt 6776 1256)
+)
+(connector
+	(pt 6736 1256)
+	(pt 6736 1384)
+)
+(connector
+	(pt 6736 1384)
+	(pt 6760 1384)
+)
+(connector
+	(pt 6760 1384)
+	(pt 6760 1424)
+)
+(connector
+	(pt 6624 1224)
+	(pt 6624 1256)
+)
+(connector
+	(pt 6584 1256)
+	(pt 6624 1256)
+)
+(connector
+	(pt 6584 1256)
+	(pt 6584 1384)
+)
+(connector
+	(pt 6584 1384)
+	(pt 6608 1384)
+)
+(connector
+	(pt 6608 1384)
+	(pt 6608 1424)
+)
+(connector
+	(pt 6472 1224)
+	(pt 6472 1256)
+)
+(connector
+	(pt 6432 1256)
+	(pt 6472 1256)
+)
+(connector
+	(pt 6432 1256)
+	(pt 6432 1384)
+)
+(connector
+	(pt 6432 1384)
+	(pt 6456 1384)
+)
+(connector
+	(pt 6456 1384)
+	(pt 6456 1424)
+)
+(connector
+	(pt 6320 1224)
+	(pt 6320 1256)
+)
+(connector
+	(pt 6280 1256)
+	(pt 6320 1256)
+)
+(connector
+	(pt 6280 1256)
+	(pt 6280 1384)
+)
+(connector
+	(pt 6280 1384)
+	(pt 6304 1384)
+)
+(connector
+	(pt 6304 1384)
+	(pt 6304 1424)
+)
+(connector
+	(pt 6168 1224)
+	(pt 6168 1256)
+)
+(connector
+	(pt 6128 1256)
+	(pt 6168 1256)
+)
+(connector
+	(pt 6128 1256)
+	(pt 6128 1384)
+)
+(connector
+	(pt 6128 1384)
+	(pt 6152 1384)
+)
+(connector
+	(pt 6152 1384)
+	(pt 6152 1424)
+)
+(connector
+	(pt 6016 1224)
+	(pt 6016 1256)
+)
+(connector
+	(pt 5976 1256)
+	(pt 6016 1256)
+)
+(connector
+	(pt 5976 1256)
+	(pt 5976 1384)
+)
+(connector
+	(pt 5976 1384)
+	(pt 6000 1384)
+)
+(connector
+	(pt 6000 1384)
+	(pt 6000 1424)
+)
+(connector
+	(pt 5864 1224)
+	(pt 5864 1256)
+)
+(connector
+	(pt 5824 1256)
+	(pt 5864 1256)
+)
+(connector
+	(pt 5824 1256)
+	(pt 5824 1384)
+)
+(connector
+	(pt 5824 1384)
+	(pt 5848 1384)
+)
+(connector
+	(pt 5848 1384)
+	(pt 5848 1424)
+)
+(connector
+	(pt 5712 1224)
+	(pt 5712 1256)
+)
+(connector
+	(pt 5672 1256)
+	(pt 5712 1256)
+)
+(connector
+	(pt 5672 1256)
+	(pt 5672 1384)
+)
+(connector
+	(pt 5672 1384)
+	(pt 5696 1384)
+)
+(connector
+	(pt 5696 1384)
+	(pt 5696 1424)
+)
+(connector
+	(pt 5560 1224)
+	(pt 5560 1256)
+)
+(connector
+	(pt 5520 1256)
+	(pt 5560 1256)
+)
+(connector
+	(pt 5520 1256)
+	(pt 5520 1384)
+)
+(connector
+	(pt 5520 1384)
+	(pt 5544 1384)
+)
+(connector
+	(pt 5544 1384)
+	(pt 5544 1424)
+)
+(connector
+	(pt 5408 1224)
+	(pt 5408 1256)
+)
+(connector
+	(pt 5368 1256)
+	(pt 5408 1256)
+)
+(connector
+	(pt 5368 1256)
+	(pt 5368 1384)
+)
+(connector
+	(pt 5368 1384)
+	(pt 5392 1384)
+)
+(connector
+	(pt 5392 1384)
+	(pt 5392 1424)
+)
+(connector
+	(pt 5256 1224)
+	(pt 5256 1256)
+)
+(connector
+	(pt 5216 1256)
+	(pt 5256 1256)
+)
+(connector
+	(pt 5216 1256)
+	(pt 5216 1384)
+)
+(connector
+	(pt 5216 1384)
+	(pt 5240 1384)
+)
+(connector
+	(pt 5240 1384)
+	(pt 5240 1424)
+)
+(connector
+	(pt 5104 1520)
+	(pt 5104 1552)
+)
+(connector
+	(pt 5064 1552)
+	(pt 5104 1552)
+)
+(connector
+	(pt 5064 1552)
+	(pt 5064 1680)
+)
+(connector
+	(pt 5064 1680)
+	(pt 5088 1680)
+)
+(connector
+	(pt 5088 1680)
+	(pt 5088 1744)
+)
+(connector
+	(pt 5256 1520)
+	(pt 5256 1552)
+)
+(connector
+	(pt 5216 1552)
+	(pt 5256 1552)
+)
+(connector
+	(pt 5216 1552)
+	(pt 5216 1680)
+)
+(connector
+	(pt 5216 1680)
+	(pt 5240 1680)
+)
+(connector
+	(pt 5240 1680)
+	(pt 5240 1744)
+)
+(connector
+	(pt 5408 1520)
+	(pt 5408 1552)
+)
+(connector
+	(pt 5368 1552)
+	(pt 5408 1552)
+)
+(connector
+	(pt 5368 1552)
+	(pt 5368 1680)
+)
+(connector
+	(pt 5368 1680)
+	(pt 5392 1680)
+)
+(connector
+	(pt 5392 1680)
+	(pt 5392 1744)
+)
+(connector
+	(pt 5560 1520)
+	(pt 5560 1552)
+)
+(connector
+	(pt 5520 1552)
+	(pt 5560 1552)
+)
+(connector
+	(pt 5520 1552)
+	(pt 5520 1680)
+)
+(connector
+	(pt 5520 1680)
+	(pt 5544 1680)
+)
+(connector
+	(pt 5544 1680)
+	(pt 5544 1744)
+)
+(connector
+	(pt 5712 1520)
+	(pt 5712 1552)
+)
+(connector
+	(pt 5672 1552)
+	(pt 5712 1552)
+)
+(connector
+	(pt 5672 1552)
+	(pt 5672 1680)
+)
+(connector
+	(pt 5672 1680)
+	(pt 5696 1680)
+)
+(connector
+	(pt 5696 1680)
+	(pt 5696 1744)
+)
+(connector
+	(pt 5864 1520)
+	(pt 5864 1552)
+)
+(connector
+	(pt 5824 1552)
+	(pt 5864 1552)
+)
+(connector
+	(pt 5824 1552)
+	(pt 5824 1680)
+)
+(connector
+	(pt 5824 1680)
+	(pt 5848 1680)
+)
+(connector
+	(pt 5848 1680)
+	(pt 5848 1744)
+)
+(connector
+	(pt 6016 1520)
+	(pt 6016 1552)
+)
+(connector
+	(pt 5976 1552)
+	(pt 6016 1552)
+)
+(connector
+	(pt 5976 1552)
+	(pt 5976 1680)
+)
+(connector
+	(pt 5976 1680)
+	(pt 6000 1680)
+)
+(connector
+	(pt 6000 1680)
+	(pt 6000 1744)
+)
+(connector
+	(pt 6168 1520)
+	(pt 6168 1552)
+)
+(connector
+	(pt 6128 1552)
+	(pt 6168 1552)
+)
+(connector
+	(pt 6128 1552)
+	(pt 6128 1680)
+)
+(connector
+	(pt 6128 1680)
+	(pt 6152 1680)
+)
+(connector
+	(pt 6152 1680)
+	(pt 6152 1744)
+)
+(connector
+	(pt 6320 1520)
+	(pt 6320 1552)
+)
+(connector
+	(pt 6280 1552)
+	(pt 6320 1552)
+)
+(connector
+	(pt 6280 1552)
+	(pt 6280 1680)
+)
+(connector
+	(pt 6280 1680)
+	(pt 6304 1680)
+)
+(connector
+	(pt 6304 1680)
+	(pt 6304 1744)
+)
+(connector
+	(pt 6472 1520)
+	(pt 6472 1552)
+)
+(connector
+	(pt 6432 1552)
+	(pt 6472 1552)
+)
+(connector
+	(pt 6432 1552)
+	(pt 6432 1680)
+)
+(connector
+	(pt 6432 1680)
+	(pt 6456 1680)
+)
+(connector
+	(pt 6456 1680)
+	(pt 6456 1744)
+)
+(connector
+	(pt 6624 1520)
+	(pt 6624 1552)
+)
+(connector
+	(pt 6584 1552)
+	(pt 6624 1552)
+)
+(connector
+	(pt 6584 1552)
+	(pt 6584 1680)
+)
+(connector
+	(pt 6584 1680)
+	(pt 6608 1680)
+)
+(connector
+	(pt 6608 1680)
+	(pt 6608 1744)
+)
+(connector
+	(pt 6776 1520)
+	(pt 6776 1552)
+)
+(connector
+	(pt 6736 1552)
+	(pt 6776 1552)
+)
+(connector
+	(pt 6736 1552)
+	(pt 6736 1680)
+)
+(connector
+	(pt 6736 1680)
+	(pt 6760 1680)
+)
+(connector
+	(pt 6760 1680)
+	(pt 6760 1744)
+)
+(connector
+	(pt 6928 1520)
+	(pt 6928 1552)
+)
+(connector
+	(pt 6888 1552)
+	(pt 6928 1552)
+)
+(connector
+	(pt 6888 1552)
+	(pt 6888 1680)
+)
+(connector
+	(pt 6888 1680)
+	(pt 6912 1680)
+)
+(connector
+	(pt 6912 1680)
+	(pt 6912 1744)
+)
+(connector
+	(pt 7080 1520)
+	(pt 7080 1552)
+)
+(connector
+	(pt 7040 1552)
+	(pt 7080 1552)
+)
+(connector
+	(pt 7040 1552)
+	(pt 7040 1680)
+)
+(connector
+	(pt 7040 1680)
+	(pt 7064 1680)
+)
+(connector
+	(pt 7064 1680)
+	(pt 7064 1744)
+)
+(connector
+	(pt 7232 1520)
+	(pt 7232 1552)
+)
+(connector
+	(pt 7192 1552)
+	(pt 7232 1552)
+)
+(connector
+	(pt 7192 1552)
+	(pt 7192 1680)
+)
+(connector
+	(pt 7192 1680)
+	(pt 7216 1680)
+)
+(connector
+	(pt 7216 1680)
+	(pt 7216 1744)
+)
+(connector
+	(pt 7384 1520)
+	(pt 7384 1552)
+)
+(connector
+	(pt 7344 1552)
+	(pt 7384 1552)
+)
+(connector
+	(pt 7344 1552)
+	(pt 7344 1680)
+)
+(connector
+	(pt 7344 1680)
+	(pt 7368 1680)
+)
+(connector
+	(pt 7368 1680)
+	(pt 7368 1744)
+)
+(connector
+	(pt 7536 1520)
+	(pt 7536 1552)
+)
+(connector
+	(pt 7496 1552)
+	(pt 7536 1552)
+)
+(connector
+	(pt 7496 1552)
+	(pt 7496 1680)
+)
+(connector
+	(pt 7496 1680)
+	(pt 7520 1680)
+)
+(connector
+	(pt 7520 1680)
+	(pt 7520 1744)
+)
+(connector
+	(pt 7688 1520)
+	(pt 7688 1552)
+)
+(connector
+	(pt 7648 1552)
+	(pt 7688 1552)
+)
+(connector
+	(pt 7648 1552)
+	(pt 7648 1680)
+)
+(connector
+	(pt 7648 1680)
+	(pt 7672 1680)
+)
+(connector
+	(pt 7672 1680)
+	(pt 7672 1744)
+)
+(connector
+	(pt 7840 1520)
+	(pt 7840 1552)
+)
+(connector
+	(pt 7800 1552)
+	(pt 7840 1552)
+)
+(connector
+	(pt 7800 1552)
+	(pt 7800 1680)
+)
+(connector
+	(pt 7800 1680)
+	(pt 7824 1680)
+)
+(connector
+	(pt 7824 1680)
+	(pt 7824 1744)
+)
+(connector
+	(pt 7992 1520)
+	(pt 7992 1552)
+)
+(connector
+	(pt 7952 1552)
+	(pt 7992 1552)
+)
+(connector
+	(pt 7952 1552)
+	(pt 7952 1680)
+)
+(connector
+	(pt 7952 1680)
+	(pt 7976 1680)
+)
+(connector
+	(pt 7976 1680)
+	(pt 7976 1744)
+)
+(connector
+	(pt 8144 1520)
+	(pt 8144 1552)
+)
+(connector
+	(pt 8104 1552)
+	(pt 8144 1552)
+)
+(connector
+	(pt 8104 1552)
+	(pt 8104 1680)
+)
+(connector
+	(pt 8104 1680)
+	(pt 8128 1680)
+)
+(connector
+	(pt 8128 1680)
+	(pt 8128 1744)
+)
+(connector
+	(pt 8296 1520)
+	(pt 8296 1552)
+)
+(connector
+	(pt 8256 1552)
+	(pt 8296 1552)
+)
+(connector
+	(pt 8256 1552)
+	(pt 8256 1680)
+)
+(connector
+	(pt 8256 1680)
+	(pt 8280 1680)
+)
+(connector
+	(pt 8280 1680)
+	(pt 8280 1744)
+)
+(connector
+	(pt 8400 1552)
+	(pt 8400 1680)
+)
+(connector
+	(pt 8400 1680)
+	(pt 8424 1680)
+)
+(connector
+	(pt 8424 1680)
+	(pt 8424 1744)
+)
+(connector
+	(pt 8448 1552)
+	(pt 8448 1520)
+)
+(connector
+	(pt 8400 1552)
+	(pt 8448 1552)
+)
+(connector
+	(pt 8592 1520)
+	(pt 8592 1552)
+)
+(connector
+	(pt 8552 1552)
+	(pt 8592 1552)
+)
+(connector
+	(pt 8552 1552)
+	(pt 8552 1680)
+)
+(connector
+	(pt 8552 1680)
+	(pt 8576 1680)
+)
+(connector
+	(pt 8576 1680)
+	(pt 8576 1744)
+)
+(connector
+	(pt 8744 1520)
+	(pt 8744 1552)
+)
+(connector
+	(pt 8704 1552)
+	(pt 8744 1552)
+)
+(connector
+	(pt 8704 1552)
+	(pt 8704 1680)
+)
+(connector
+	(pt 8704 1680)
+	(pt 8728 1680)
+)
+(connector
+	(pt 8728 1680)
+	(pt 8728 1744)
+)
+(connector
+	(pt 8896 1520)
+	(pt 8896 1552)
+)
+(connector
+	(pt 8856 1552)
+	(pt 8896 1552)
+)
+(connector
+	(pt 8856 1552)
+	(pt 8856 1680)
+)
+(connector
+	(pt 8856 1680)
+	(pt 8880 1680)
+)
+(connector
+	(pt 8880 1680)
+	(pt 8880 1744)
+)
+(connector
+	(pt 9048 1520)
+	(pt 9048 1552)
+)
+(connector
+	(pt 9008 1552)
+	(pt 9048 1552)
+)
+(connector
+	(pt 9008 1552)
+	(pt 9008 1680)
+)
+(connector
+	(pt 9008 1680)
+	(pt 9032 1680)
+)
+(connector
+	(pt 9032 1680)
+	(pt 9032 1744)
+)
+(connector
+	(pt 9200 1520)
+	(pt 9200 1552)
+)
+(connector
+	(pt 9160 1552)
+	(pt 9200 1552)
+)
+(connector
+	(pt 9160 1552)
+	(pt 9160 1680)
+)
+(connector
+	(pt 9160 1680)
+	(pt 9192 1680)
+)
+(connector
+	(pt 9192 1680)
+	(pt 9192 1744)
+)
+(connector
+	(pt 9360 1520)
+	(pt 9360 1552)
+)
+(connector
+	(pt 9320 1552)
+	(pt 9360 1552)
+)
+(connector
+	(pt 9320 1552)
+	(pt 9320 1680)
+)
+(connector
+	(pt 9320 1680)
+	(pt 9344 1680)
+)
+(connector
+	(pt 9344 1680)
+	(pt 9344 1744)
+)
+(connector
+	(pt 9512 1520)
+	(pt 9512 1552)
+)
+(connector
+	(pt 9472 1552)
+	(pt 9512 1552)
+)
+(connector
+	(pt 9472 1552)
+	(pt 9472 1680)
+)
+(connector
+	(pt 9472 1680)
+	(pt 9496 1680)
+)
+(connector
+	(pt 9496 1680)
+	(pt 9496 1744)
+)
+(connector
+	(pt 9664 1520)
+	(pt 9664 1560)
+)
+(connector
+	(pt 9664 1560)
+	(pt 9712 1560)
+)
+(connector
+	(pt 9712 1560)
+	(pt 9712 1712)
+)
+(connector
+	(pt 9712 1712)
+	(pt 9680 1712)
+)
+(connector
+	(pt 9680 1712)
+	(pt 9680 1744)
+)
+(connector
+	(pt 9360 2152)
+	(pt 9360 2216)
+)
+(connector
+	(pt 9360 2216)
+	(pt 9424 2216)
+)
+(connector
+	(pt 9384 2392)
+	(pt 9384 2432)
+)
+(connector
+	(pt 9384 2392)
+	(pt 9424 2392)
+)
+(connector
+	(pt 9424 2216)
+	(pt 9424 2392)
+)
+(connector
+	(pt 9208 2152)
+	(pt 9208 2224)
+)
+(connector
+	(pt 9208 2224)
+	(pt 9176 2224)
+)
+(connector
+	(pt 9176 2224)
+	(pt 9176 2392)
+)
+(connector
+	(pt 9176 2392)
+	(pt 9200 2392)
+)
+(connector
+	(pt 9200 2392)
+	(pt 9200 2432)
+)
+(connector
+	(pt 9056 2152)
+	(pt 9056 2224)
+)
+(connector
+	(pt 9056 2224)
+	(pt 9024 2224)
+)
+(connector
+	(pt 9024 2224)
+	(pt 9024 2392)
+)
+(connector
+	(pt 9024 2392)
+	(pt 9048 2392)
+)
+(connector
+	(pt 9048 2392)
+	(pt 9048 2432)
+)
+(connector
+	(pt 8872 2224)
+	(pt 8872 2392)
+)
+(connector
+	(pt 8872 2392)
+	(pt 8896 2392)
+)
+(connector
+	(pt 8896 2392)
+	(pt 8896 2432)
+)
+(connector
+	(pt 8896 2224)
+	(pt 8896 2152)
+)
+(connector
+	(pt 8872 2224)
+	(pt 8896 2224)
+)
+(connector
+	(pt 8744 2152)
+	(pt 8744 2224)
+)
+(connector
+	(pt 8744 2224)
+	(pt 8712 2224)
+)
+(connector
+	(pt 8712 2224)
+	(pt 8712 2392)
+)
+(connector
+	(pt 8712 2392)
+	(pt 8736 2392)
+)
+(connector
+	(pt 8736 2392)
+	(pt 8736 2432)
+)
+(connector
+	(pt 8592 2152)
+	(pt 8592 2224)
+)
+(connector
+	(pt 8592 2224)
+	(pt 8560 2224)
+)
+(connector
+	(pt 8560 2224)
+	(pt 8560 2392)
+)
+(connector
+	(pt 8560 2392)
+	(pt 8584 2392)
+)
+(connector
+	(pt 8584 2392)
+	(pt 8584 2432)
+)
+(connector
+	(pt 8440 2152)
+	(pt 8440 2224)
+)
+(connector
+	(pt 8440 2224)
+	(pt 8408 2224)
+)
+(connector
+	(pt 8408 2224)
+	(pt 8408 2392)
+)
+(connector
+	(pt 8408 2392)
+	(pt 8432 2392)
+)
+(connector
+	(pt 8432 2392)
+	(pt 8432 2432)
+)
+(connector
+	(pt 8288 2152)
+	(pt 8288 2224)
+)
+(connector
+	(pt 8288 2224)
+	(pt 8256 2224)
+)
+(connector
+	(pt 8256 2224)
+	(pt 8256 2392)
+)
+(connector
+	(pt 8256 2392)
+	(pt 8280 2392)
+)
+(connector
+	(pt 8280 2392)
+	(pt 8280 2432)
+)
+(connector
+	(pt 8104 2224)
+	(pt 8104 2392)
+)
+(connector
+	(pt 8104 2392)
+	(pt 8128 2392)
+)
+(connector
+	(pt 8128 2392)
+	(pt 8128 2432)
+)
+(connector
+	(pt 8144 2224)
+	(pt 8144 2152)
+)
+(connector
+	(pt 8104 2224)
+	(pt 8144 2224)
+)
+(connector
+	(pt 7992 2152)
+	(pt 7992 2224)
+)
+(connector
+	(pt 7992 2224)
+	(pt 7960 2224)
+)
+(connector
+	(pt 7960 2224)
+	(pt 7960 2392)
+)
+(connector
+	(pt 7960 2392)
+	(pt 7984 2392)
+)
+(connector
+	(pt 7984 2392)
+	(pt 7984 2432)
+)
+(connector
+	(pt 7840 2152)
+	(pt 7840 2224)
+)
+(connector
+	(pt 7840 2224)
+	(pt 7808 2224)
+)
+(connector
+	(pt 7808 2224)
+	(pt 7808 2392)
+)
+(connector
+	(pt 7808 2392)
+	(pt 7832 2392)
+)
+(connector
+	(pt 7832 2392)
+	(pt 7832 2432)
+)
+(connector
+	(pt 7688 2152)
+	(pt 7688 2224)
+)
+(connector
+	(pt 7688 2224)
+	(pt 7656 2224)
+)
+(connector
+	(pt 7656 2224)
+	(pt 7656 2392)
+)
+(connector
+	(pt 7656 2392)
+	(pt 7680 2392)
+)
+(connector
+	(pt 7680 2392)
+	(pt 7680 2432)
+)
+(connector
+	(pt 7536 2152)
+	(pt 7536 2224)
+)
+(connector
+	(pt 7536 2224)
+	(pt 7504 2224)
+)
+(connector
+	(pt 7504 2224)
+	(pt 7504 2392)
+)
+(connector
+	(pt 7504 2392)
+	(pt 7528 2392)
+)
+(connector
+	(pt 7528 2392)
+	(pt 7528 2432)
+)
+(connector
+	(pt 7384 2152)
+	(pt 7384 2224)
+)
+(connector
+	(pt 7384 2224)
+	(pt 7352 2224)
+)
+(connector
+	(pt 7352 2224)
+	(pt 7352 2392)
+)
+(connector
+	(pt 7352 2392)
+	(pt 7376 2392)
+)
+(connector
+	(pt 7376 2392)
+	(pt 7376 2432)
+)
+(connector
+	(pt 7232 2152)
+	(pt 7232 2224)
+)
+(connector
+	(pt 7232 2224)
+	(pt 7200 2224)
+)
+(connector
+	(pt 7200 2224)
+	(pt 7200 2392)
+)
+(connector
+	(pt 7200 2392)
+	(pt 7224 2392)
+)
+(connector
+	(pt 7224 2392)
+	(pt 7224 2432)
+)
+(connector
+	(pt 7080 2152)
+	(pt 7080 2224)
+)
+(connector
+	(pt 7080 2224)
+	(pt 7048 2224)
+)
+(connector
+	(pt 7048 2224)
+	(pt 7048 2392)
+)
+(connector
+	(pt 7048 2392)
+	(pt 7072 2392)
+)
+(connector
+	(pt 7072 2392)
+	(pt 7072 2432)
+)
+(connector
+	(pt 6928 2152)
+	(pt 6928 2224)
+)
+(connector
+	(pt 6928 2224)
+	(pt 6896 2224)
+)
+(connector
+	(pt 6896 2224)
+	(pt 6896 2392)
+)
+(connector
+	(pt 6896 2392)
+	(pt 6920 2392)
+)
+(connector
+	(pt 6920 2392)
+	(pt 6920 2432)
+)
+(connector
+	(pt 6776 2152)
+	(pt 6776 2224)
+)
+(connector
+	(pt 6776 2224)
+	(pt 6744 2224)
+)
+(connector
+	(pt 6744 2224)
+	(pt 6744 2392)
+)
+(connector
+	(pt 6744 2392)
+	(pt 6768 2392)
+)
+(connector
+	(pt 6768 2392)
+	(pt 6768 2432)
+)
+(connector
+	(pt 6624 2152)
+	(pt 6624 2224)
+)
+(connector
+	(pt 6624 2224)
+	(pt 6592 2224)
+)
+(connector
+	(pt 6592 2224)
+	(pt 6592 2392)
+)
+(connector
+	(pt 6592 2392)
+	(pt 6616 2392)
+)
+(connector
+	(pt 6616 2392)
+	(pt 6616 2432)
+)
+(connector
+	(pt 6472 2152)
+	(pt 6472 2224)
+)
+(connector
+	(pt 6472 2224)
+	(pt 6440 2224)
+)
+(connector
+	(pt 6440 2224)
+	(pt 6440 2392)
+)
+(connector
+	(pt 6440 2392)
+	(pt 6464 2392)
+)
+(connector
+	(pt 6464 2392)
+	(pt 6464 2432)
+)
+(connector
+	(pt 6320 2152)
+	(pt 6320 2224)
+)
+(connector
+	(pt 6320 2224)
+	(pt 6288 2224)
+)
+(connector
+	(pt 6288 2224)
+	(pt 6288 2392)
+)
+(connector
+	(pt 6288 2392)
+	(pt 6312 2392)
+)
+(connector
+	(pt 6312 2392)
+	(pt 6312 2432)
+)
+(connector
+	(pt 6168 2152)
+	(pt 6168 2224)
+)
+(connector
+	(pt 6168 2224)
+	(pt 6136 2224)
+)
+(connector
+	(pt 6136 2224)
+	(pt 6136 2392)
+)
+(connector
+	(pt 6136 2392)
+	(pt 6160 2392)
+)
+(connector
+	(pt 6160 2392)
+	(pt 6160 2432)
+)
+(connector
+	(pt 6016 2152)
+	(pt 6016 2224)
+)
+(connector
+	(pt 6016 2224)
+	(pt 5984 2224)
+)
+(connector
+	(pt 5984 2224)
+	(pt 5984 2392)
+)
+(connector
+	(pt 5984 2392)
+	(pt 6008 2392)
+)
+(connector
+	(pt 6008 2392)
+	(pt 6008 2432)
+)
+(connector
+	(pt 5864 2152)
+	(pt 5864 2224)
+)
+(connector
+	(pt 5864 2224)
+	(pt 5832 2224)
+)
+(connector
+	(pt 5832 2224)
+	(pt 5832 2392)
+)
+(connector
+	(pt 5832 2392)
+	(pt 5856 2392)
+)
+(connector
+	(pt 5856 2392)
+	(pt 5856 2432)
+)
+(connector
+	(pt 5712 2152)
+	(pt 5712 2224)
+)
+(connector
+	(pt 5712 2224)
+	(pt 5680 2224)
+)
+(connector
+	(pt 5680 2224)
+	(pt 5680 2392)
+)
+(connector
+	(pt 5680 2392)
+	(pt 5704 2392)
+)
+(connector
+	(pt 5704 2392)
+	(pt 5704 2432)
+)
+(connector
+	(pt 5560 2152)
+	(pt 5560 2224)
+)
+(connector
+	(pt 5560 2224)
+	(pt 5528 2224)
+)
+(connector
+	(pt 5528 2224)
+	(pt 5528 2392)
+)
+(connector
+	(pt 5528 2392)
+	(pt 5552 2392)
+)
+(connector
+	(pt 5552 2392)
+	(pt 5552 2432)
+)
+(connector
+	(pt 5408 2152)
+	(pt 5408 2224)
+)
+(connector
+	(pt 5408 2224)
+	(pt 5376 2224)
+)
+(connector
+	(pt 5376 2224)
+	(pt 5376 2392)
+)
+(connector
+	(pt 5376 2392)
+	(pt 5400 2392)
+)
+(connector
+	(pt 5400 2392)
+	(pt 5400 2432)
+)
+(connector
+	(pt 5256 2152)
+	(pt 5256 2224)
+)
+(connector
+	(pt 5256 2224)
+	(pt 5224 2224)
+)
+(connector
+	(pt 5224 2224)
+	(pt 5224 2392)
+)
+(connector
+	(pt 5224 2392)
+	(pt 5248 2392)
+)
+(connector
+	(pt 5248 2392)
+	(pt 5248 2432)
+)
+(connector
+	(pt 5104 2152)
+	(pt 5104 2224)
+)
+(connector
+	(pt 5104 2224)
+	(pt 5072 2224)
+)
+(connector
+	(pt 5072 2224)
+	(pt 5072 2392)
+)
+(connector
+	(pt 5072 2392)
+	(pt 5096 2392)
+)
+(connector
+	(pt 5096 2392)
+	(pt 5096 2432)
+)
+(connector
+	(pt 4952 2152)
+	(pt 4952 2224)
+)
+(connector
+	(pt 4952 2224)
+	(pt 4920 2224)
+)
+(connector
+	(pt 4920 2224)
+	(pt 4920 2392)
+)
+(connector
+	(pt 4920 2392)
+	(pt 4944 2392)
+)
+(connector
+	(pt 4944 2392)
+	(pt 4944 2432)
+)
+(connector
+	(pt 4800 2152)
+	(pt 4800 2224)
+)
+(connector
+	(pt 4800 2224)
+	(pt 4768 2224)
+)
+(connector
+	(pt 4768 2224)
+	(pt 4768 2392)
+)
+(connector
+	(pt 4768 2392)
+	(pt 4792 2392)
+)
+(connector
+	(pt 4792 2392)
+	(pt 4792 2432)
+)
+(connector
+	(pt 9216 2528)
+	(pt 9216 2584)
+)
+(connector
+	(pt 9216 2584)
+	(pt 9280 2584)
+)
+(connector
+	(pt 9280 2584)
+	(pt 9280 2792)
+)
+(connector
+	(pt 9280 2792)
+	(pt 9224 2792)
+)
+(connector
+	(pt 9224 2792)
+	(pt 9224 2816)
+)
+(connector
+	(pt 9064 2528)
+	(pt 9064 2576)
+)
+(connector
+	(pt 9064 2576)
+	(pt 9016 2576)
+)
+(connector
+	(pt 9016 2576)
+	(pt 9016 2784)
+)
+(connector
+	(pt 9016 2784)
+	(pt 9040 2784)
+)
+(connector
+	(pt 9040 2784)
+	(pt 9040 2816)
+)
+(connector
+	(pt 8912 2528)
+	(pt 8912 2576)
+)
+(connector
+	(pt 8912 2576)
+	(pt 8864 2576)
+)
+(connector
+	(pt 8864 2576)
+	(pt 8864 2784)
+)
+(connector
+	(pt 8864 2784)
+	(pt 8888 2784)
+)
+(connector
+	(pt 8888 2784)
+	(pt 8888 2816)
+)
+(connector
+	(pt 8752 2528)
+	(pt 8752 2576)
+)
+(connector
+	(pt 8752 2576)
+	(pt 8704 2576)
+)
+(connector
+	(pt 8704 2576)
+	(pt 8704 2784)
+)
+(connector
+	(pt 8704 2784)
+	(pt 8736 2784)
+)
+(connector
+	(pt 8736 2784)
+	(pt 8736 2816)
+)
+(connector
+	(pt 8600 2528)
+	(pt 8600 2576)
+)
+(connector
+	(pt 8600 2576)
+	(pt 8552 2576)
+)
+(connector
+	(pt 8552 2576)
+	(pt 8552 2784)
+)
+(connector
+	(pt 8552 2784)
+	(pt 8576 2784)
+)
+(connector
+	(pt 8576 2784)
+	(pt 8576 2816)
+)
+(connector
+	(pt 8448 2528)
+	(pt 8448 2576)
+)
+(connector
+	(pt 8448 2576)
+	(pt 8400 2576)
+)
+(connector
+	(pt 8400 2576)
+	(pt 8400 2784)
+)
+(connector
+	(pt 8400 2784)
+	(pt 8424 2784)
+)
+(connector
+	(pt 8424 2784)
+	(pt 8424 2816)
+)
+(connector
+	(pt 8296 2528)
+	(pt 8296 2576)
+)
+(connector
+	(pt 8296 2576)
+	(pt 8248 2576)
+)
+(connector
+	(pt 8248 2576)
+	(pt 8248 2784)
+)
+(connector
+	(pt 8248 2784)
+	(pt 8272 2784)
+)
+(connector
+	(pt 8272 2784)
+	(pt 8272 2816)
+)
+(connector
+	(pt 8144 2528)
+	(pt 8144 2576)
+)
+(connector
+	(pt 8144 2576)
+	(pt 8096 2576)
+)
+(connector
+	(pt 8096 2576)
+	(pt 8096 2784)
+)
+(connector
+	(pt 8096 2784)
+	(pt 8120 2784)
+)
+(connector
+	(pt 8120 2784)
+	(pt 8120 2816)
+)
+(connector
+	(pt 8000 2536)
+	(pt 7992 2536)
+)
+(connector
+	(pt 8000 2528)
+	(pt 8000 2536)
+)
+(connector
+	(pt 7992 2536)
+	(pt 7992 2576)
+)
+(connector
+	(pt 7992 2576)
+	(pt 7944 2576)
+)
+(connector
+	(pt 7944 2576)
+	(pt 7944 2784)
+)
+(connector
+	(pt 7944 2784)
+	(pt 7968 2784)
+)
+(connector
+	(pt 7968 2784)
+	(pt 7968 2816)
+)
+(connector
+	(pt 7848 2528)
+	(pt 7848 2576)
+)
+(connector
+	(pt 7848 2576)
+	(pt 7800 2576)
+)
+(connector
+	(pt 7800 2576)
+	(pt 7800 2784)
+)
+(connector
+	(pt 7800 2784)
+	(pt 7824 2784)
+)
+(connector
+	(pt 7824 2784)
+	(pt 7824 2816)
+)
+(connector
+	(pt 7696 2528)
+	(pt 7696 2576)
+)
+(connector
+	(pt 7696 2576)
+	(pt 7648 2576)
+)
+(connector
+	(pt 7648 2576)
+	(pt 7648 2784)
+)
+(connector
+	(pt 7648 2784)
+	(pt 7672 2784)
+)
+(connector
+	(pt 7672 2784)
+	(pt 7672 2816)
+)
+(connector
+	(pt 7544 2528)
+	(pt 7544 2576)
+)
+(connector
+	(pt 7544 2576)
+	(pt 7496 2576)
+)
+(connector
+	(pt 7496 2576)
+	(pt 7496 2784)
+)
+(connector
+	(pt 7496 2784)
+	(pt 7520 2784)
+)
+(connector
+	(pt 7520 2784)
+	(pt 7520 2816)
+)
+(connector
+	(pt 7392 2528)
+	(pt 7392 2576)
+)
+(connector
+	(pt 7392 2576)
+	(pt 7344 2576)
+)
+(connector
+	(pt 7344 2576)
+	(pt 7344 2784)
+)
+(connector
+	(pt 7344 2784)
+	(pt 7368 2784)
+)
+(connector
+	(pt 7368 2784)
+	(pt 7368 2816)
+)
+(connector
+	(pt 7240 2528)
+	(pt 7240 2576)
+)
+(connector
+	(pt 7240 2576)
+	(pt 7192 2576)
+)
+(connector
+	(pt 7192 2576)
+	(pt 7192 2784)
+)
+(connector
+	(pt 7192 2784)
+	(pt 7216 2784)
+)
+(connector
+	(pt 7216 2784)
+	(pt 7216 2816)
+)
+(connector
+	(pt 7088 2528)
+	(pt 7088 2576)
+)
+(connector
+	(pt 7088 2576)
+	(pt 7040 2576)
+)
+(connector
+	(pt 7040 2576)
+	(pt 7040 2784)
+)
+(connector
+	(pt 7040 2784)
+	(pt 7064 2784)
+)
+(connector
+	(pt 7064 2784)
+	(pt 7064 2816)
+)
+(connector
+	(pt 6936 2528)
+	(pt 6936 2576)
+)
+(connector
+	(pt 6936 2576)
+	(pt 6888 2576)
+)
+(connector
+	(pt 6888 2576)
+	(pt 6888 2784)
+)
+(connector
+	(pt 6888 2784)
+	(pt 6912 2784)
+)
+(connector
+	(pt 6912 2784)
+	(pt 6912 2816)
+)
+(connector
+	(pt 6784 2528)
+	(pt 6784 2576)
+)
+(connector
+	(pt 6784 2576)
+	(pt 6736 2576)
+)
+(connector
+	(pt 6736 2576)
+	(pt 6736 2784)
+)
+(connector
+	(pt 6736 2784)
+	(pt 6760 2784)
+)
+(connector
+	(pt 6760 2784)
+	(pt 6760 2816)
+)
+(connector
+	(pt 6632 2528)
+	(pt 6632 2576)
+)
+(connector
+	(pt 6632 2576)
+	(pt 6584 2576)
+)
+(connector
+	(pt 6584 2576)
+	(pt 6584 2784)
+)
+(connector
+	(pt 6584 2784)
+	(pt 6608 2784)
+)
+(connector
+	(pt 6608 2784)
+	(pt 6608 2816)
+)
+(connector
+	(pt 6480 2528)
+	(pt 6480 2576)
+)
+(connector
+	(pt 6480 2576)
+	(pt 6432 2576)
+)
+(connector
+	(pt 6432 2576)
+	(pt 6432 2784)
+)
+(connector
+	(pt 6432 2784)
+	(pt 6456 2784)
+)
+(connector
+	(pt 6456 2784)
+	(pt 6456 2816)
+)
+(connector
+	(pt 6328 2528)
+	(pt 6328 2576)
+)
+(connector
+	(pt 6328 2576)
+	(pt 6280 2576)
+)
+(connector
+	(pt 6280 2576)
+	(pt 6280 2784)
+)
+(connector
+	(pt 6280 2784)
+	(pt 6304 2784)
+)
+(connector
+	(pt 6304 2784)
+	(pt 6304 2816)
+)
+(connector
+	(pt 6176 2528)
+	(pt 6176 2576)
+)
+(connector
+	(pt 6176 2576)
+	(pt 6128 2576)
+)
+(connector
+	(pt 6128 2576)
+	(pt 6128 2784)
+)
+(connector
+	(pt 6128 2784)
+	(pt 6152 2784)
+)
+(connector
+	(pt 6152 2784)
+	(pt 6152 2816)
+)
+(connector
+	(pt 6024 2528)
+	(pt 6024 2576)
+)
+(connector
+	(pt 6024 2576)
+	(pt 5976 2576)
+)
+(connector
+	(pt 5976 2576)
+	(pt 5976 2784)
+)
+(connector
+	(pt 5976 2784)
+	(pt 6000 2784)
+)
+(connector
+	(pt 6000 2784)
+	(pt 6000 2816)
+)
+(connector
+	(pt 5872 2528)
+	(pt 5872 2576)
+)
+(connector
+	(pt 5872 2576)
+	(pt 5824 2576)
+)
+(connector
+	(pt 5824 2576)
+	(pt 5824 2784)
+)
+(connector
+	(pt 5824 2784)
+	(pt 5848 2784)
+)
+(connector
+	(pt 5848 2784)
+	(pt 5848 2816)
+)
+(connector
+	(pt 5720 2528)
+	(pt 5720 2576)
+)
+(connector
+	(pt 5720 2576)
+	(pt 5672 2576)
+)
+(connector
+	(pt 5672 2576)
+	(pt 5672 2784)
+)
+(connector
+	(pt 5672 2784)
+	(pt 5696 2784)
+)
+(connector
+	(pt 5696 2784)
+	(pt 5696 2816)
+)
+(connector
+	(pt 5568 2528)
+	(pt 5568 2576)
+)
+(connector
+	(pt 5568 2576)
+	(pt 5520 2576)
+)
+(connector
+	(pt 5520 2576)
+	(pt 5520 2784)
+)
+(connector
+	(pt 5520 2784)
+	(pt 5544 2784)
+)
+(connector
+	(pt 5544 2784)
+	(pt 5544 2816)
+)
+(connector
+	(pt 5416 2528)
+	(pt 5416 2576)
+)
+(connector
+	(pt 5416 2576)
+	(pt 5368 2576)
+)
+(connector
+	(pt 5368 2576)
+	(pt 5368 2784)
+)
+(connector
+	(pt 5368 2784)
+	(pt 5392 2784)
+)
+(connector
+	(pt 5392 2784)
+	(pt 5392 2816)
+)
+(connector
+	(pt 5264 2528)
+	(pt 5264 2576)
+)
+(connector
+	(pt 5264 2576)
+	(pt 5216 2576)
+)
+(connector
+	(pt 5216 2576)
+	(pt 5216 2784)
+)
+(connector
+	(pt 5216 2784)
+	(pt 5240 2784)
+)
+(connector
+	(pt 5240 2784)
+	(pt 5240 2816)
+)
+(connector
+	(pt 5112 2528)
+	(pt 5112 2576)
+)
+(connector
+	(pt 5112 2576)
+	(pt 5064 2576)
+)
+(connector
+	(pt 5064 2576)
+	(pt 5064 2784)
+)
+(connector
+	(pt 5064 2784)
+	(pt 5088 2784)
+)
+(connector
+	(pt 5088 2784)
+	(pt 5088 2816)
+)
+(connector
+	(pt 4960 2528)
+	(pt 4960 2576)
+)
+(connector
+	(pt 4960 2576)
+	(pt 4912 2576)
+)
+(connector
+	(pt 4912 2576)
+	(pt 4912 2784)
+)
+(connector
+	(pt 4912 2784)
+	(pt 4936 2784)
+)
+(connector
+	(pt 4936 2784)
+	(pt 4936 2816)
+)
+(connector
+	(pt 4808 2528)
+	(pt 4808 2576)
+)
+(connector
+	(pt 4808 2576)
+	(pt 4760 2576)
+)
+(connector
+	(pt 4760 2576)
+	(pt 4760 2784)
+)
+(connector
+	(pt 4760 2784)
+	(pt 4784 2784)
+)
+(connector
+	(pt 4784 2784)
+	(pt 4784 2816)
+)
+(connector
+	(pt 4656 2528)
+	(pt 4656 2576)
+)
+(connector
+	(pt 4656 2576)
+	(pt 4608 2576)
+)
+(connector
+	(pt 4608 2576)
+	(pt 4608 2784)
+)
+(connector
+	(pt 4608 2784)
+	(pt 4632 2784)
+)
+(connector
+	(pt 4632 2784)
+	(pt 4632 2816)
+)
+(connector
+	(pt 9088 3160)
+	(pt 9064 3160)
+)
+(connector
+	(pt 9064 3160)
+	(pt 9064 3192)
+)
+(connector
+	(pt 9056 2912)
+	(pt 9056 2952)
+)
+(connector
+	(pt 9056 2952)
+	(pt 9088 2952)
+)
+(connector
+	(pt 9088 3160)
+	(pt 9088 2952)
+)
+(connector
+	(pt 8904 2912)
+	(pt 8904 2944)
+)
+(connector
+	(pt 8904 2944)
+	(pt 8864 2944)
+)
+(connector
+	(pt 8864 2944)
+	(pt 8864 3160)
+)
+(connector
+	(pt 8864 3160)
+	(pt 8880 3160)
+)
+(connector
+	(pt 8880 3160)
+	(pt 8880 3192)
+)
+(connector
+	(pt 8752 2912)
+	(pt 8752 2944)
+)
+(connector
+	(pt 8752 2944)
+	(pt 8712 2944)
+)
+(connector
+	(pt 8712 2944)
+	(pt 8712 3160)
+)
+(connector
+	(pt 8712 3160)
+	(pt 8728 3160)
+)
+(connector
+	(pt 8728 3160)
+	(pt 8728 3192)
+)
+(connector
+	(pt 8592 2912)
+	(pt 8592 2944)
+)
+(connector
+	(pt 8592 2944)
+	(pt 8552 2944)
+)
+(connector
+	(pt 8552 2944)
+	(pt 8552 3160)
+)
+(connector
+	(pt 8552 3160)
+	(pt 8576 3160)
+)
+(connector
+	(pt 8576 3160)
+	(pt 8576 3192)
+)
+(connector
+	(pt 8440 2912)
+	(pt 8440 2944)
+)
+(connector
+	(pt 8440 2944)
+	(pt 8400 2944)
+)
+(connector
+	(pt 8400 2944)
+	(pt 8400 3160)
+)
+(connector
+	(pt 8400 3160)
+	(pt 8416 3160)
+)
+(connector
+	(pt 8416 3160)
+	(pt 8416 3192)
+)
+(connector
+	(pt 8288 2912)
+	(pt 8288 2944)
+)
+(connector
+	(pt 8288 2944)
+	(pt 8248 2944)
+)
+(connector
+	(pt 8248 2944)
+	(pt 8248 3160)
+)
+(connector
+	(pt 8248 3160)
+	(pt 8264 3160)
+)
+(connector
+	(pt 8264 3160)
+	(pt 8264 3192)
+)
+(connector
+	(pt 8136 2912)
+	(pt 8136 2944)
+)
+(connector
+	(pt 8136 2944)
+	(pt 8096 2944)
+)
+(connector
+	(pt 8096 2944)
+	(pt 8096 3160)
+)
+(connector
+	(pt 8096 3160)
+	(pt 8112 3160)
+)
+(connector
+	(pt 8112 3160)
+	(pt 8112 3192)
+)
+(connector
+	(pt 7984 2912)
+	(pt 7984 2944)
+)
+(connector
+	(pt 7984 2944)
+	(pt 7944 2944)
+)
+(connector
+	(pt 7944 2944)
+	(pt 7944 3160)
+)
+(connector
+	(pt 7944 3160)
+	(pt 7960 3160)
+)
+(connector
+	(pt 7960 3160)
+	(pt 7960 3192)
+)
+(connector
+	(pt 7792 2944)
+	(pt 7792 3160)
+)
+(connector
+	(pt 7792 3160)
+	(pt 7808 3160)
+)
+(connector
+	(pt 7808 3160)
+	(pt 7808 3192)
+)
+(connector
+	(pt 7840 2944)
+	(pt 7840 2912)
+)
+(connector
+	(pt 7792 2944)
+	(pt 7840 2944)
+)
+(connector
+	(pt 7688 2912)
+	(pt 7688 2944)
+)
+(connector
+	(pt 7688 2944)
+	(pt 7648 2944)
+)
+(connector
+	(pt 7648 2944)
+	(pt 7648 3160)
+)
+(connector
+	(pt 7648 3160)
+	(pt 7664 3160)
+)
+(connector
+	(pt 7664 3160)
+	(pt 7664 3192)
+)
+(connector
+	(pt 7536 2912)
+	(pt 7536 2944)
+)
+(connector
+	(pt 7536 2944)
+	(pt 7496 2944)
+)
+(connector
+	(pt 7496 2944)
+	(pt 7496 3160)
+)
+(connector
+	(pt 7496 3160)
+	(pt 7512 3160)
+)
+(connector
+	(pt 7512 3160)
+	(pt 7512 3192)
+)
+(connector
+	(pt 7384 2912)
+	(pt 7384 2944)
+)
+(connector
+	(pt 7384 2944)
+	(pt 7344 2944)
+)
+(connector
+	(pt 7344 2944)
+	(pt 7344 3160)
+)
+(connector
+	(pt 7344 3160)
+	(pt 7360 3160)
+)
+(connector
+	(pt 7360 3160)
+	(pt 7360 3192)
+)
+(connector
+	(pt 7232 2912)
+	(pt 7232 2944)
+)
+(connector
+	(pt 7232 2944)
+	(pt 7192 2944)
+)
+(connector
+	(pt 7192 2944)
+	(pt 7192 3160)
+)
+(connector
+	(pt 7192 3160)
+	(pt 7208 3160)
+)
+(connector
+	(pt 7208 3160)
+	(pt 7208 3192)
+)
+(connector
+	(pt 7080 2912)
+	(pt 7080 2944)
+)
+(connector
+	(pt 7080 2944)
+	(pt 7040 2944)
+)
+(connector
+	(pt 7040 2944)
+	(pt 7040 3160)
+)
+(connector
+	(pt 7040 3160)
+	(pt 7056 3160)
+)
+(connector
+	(pt 7056 3160)
+	(pt 7056 3192)
+)
+(connector
+	(pt 6928 2912)
+	(pt 6928 2944)
+)
+(connector
+	(pt 6928 2944)
+	(pt 6888 2944)
+)
+(connector
+	(pt 6888 2944)
+	(pt 6888 3160)
+)
+(connector
+	(pt 6888 3160)
+	(pt 6904 3160)
+)
+(connector
+	(pt 6904 3160)
+	(pt 6904 3192)
+)
+(connector
+	(pt 6776 2912)
+	(pt 6776 2944)
+)
+(connector
+	(pt 6776 2944)
+	(pt 6736 2944)
+)
+(connector
+	(pt 6736 2944)
+	(pt 6736 3160)
+)
+(connector
+	(pt 6736 3160)
+	(pt 6752 3160)
+)
+(connector
+	(pt 6752 3160)
+	(pt 6752 3192)
+)
+(connector
+	(pt 6624 2912)
+	(pt 6624 2944)
+)
+(connector
+	(pt 6624 2944)
+	(pt 6584 2944)
+)
+(connector
+	(pt 6584 2944)
+	(pt 6584 3160)
+)
+(connector
+	(pt 6584 3160)
+	(pt 6600 3160)
+)
+(connector
+	(pt 6600 3160)
+	(pt 6600 3192)
+)
+(connector
+	(pt 6472 2912)
+	(pt 6472 2944)
+)
+(connector
+	(pt 6472 2944)
+	(pt 6432 2944)
+)
+(connector
+	(pt 6432 2944)
+	(pt 6432 3160)
+)
+(connector
+	(pt 6432 3160)
+	(pt 6448 3160)
+)
+(connector
+	(pt 6448 3160)
+	(pt 6448 3192)
+)
+(connector
+	(pt 6320 2912)
+	(pt 6320 2944)
+)
+(connector
+	(pt 6320 2944)
+	(pt 6280 2944)
+)
+(connector
+	(pt 6280 2944)
+	(pt 6280 3160)
+)
+(connector
+	(pt 6280 3160)
+	(pt 6296 3160)
+)
+(connector
+	(pt 6296 3160)
+	(pt 6296 3192)
+)
+(connector
+	(pt 6168 2912)
+	(pt 6168 2944)
+)
+(connector
+	(pt 6168 2944)
+	(pt 6128 2944)
+)
+(connector
+	(pt 6128 2944)
+	(pt 6128 3160)
+)
+(connector
+	(pt 6128 3160)
+	(pt 6144 3160)
+)
+(connector
+	(pt 6144 3160)
+	(pt 6144 3192)
+)
+(connector
+	(pt 6016 2912)
+	(pt 6016 2944)
+)
+(connector
+	(pt 6016 2944)
+	(pt 5976 2944)
+)
+(connector
+	(pt 5976 2944)
+	(pt 5976 3160)
+)
+(connector
+	(pt 5976 3160)
+	(pt 5992 3160)
+)
+(connector
+	(pt 5992 3160)
+	(pt 5992 3192)
+)
+(connector
+	(pt 5864 2912)
+	(pt 5864 2944)
+)
+(connector
+	(pt 5864 2944)
+	(pt 5824 2944)
+)
+(connector
+	(pt 5824 2944)
+	(pt 5824 3160)
+)
+(connector
+	(pt 5824 3160)
+	(pt 5840 3160)
+)
+(connector
+	(pt 5840 3160)
+	(pt 5840 3192)
+)
+(connector
+	(pt 5712 2912)
+	(pt 5712 2944)
+)
+(connector
+	(pt 5712 2944)
+	(pt 5672 2944)
+)
+(connector
+	(pt 5672 2944)
+	(pt 5672 3160)
+)
+(connector
+	(pt 5672 3160)
+	(pt 5688 3160)
+)
+(connector
+	(pt 5688 3160)
+	(pt 5688 3192)
+)
+(connector
+	(pt 5560 2912)
+	(pt 5560 2944)
+)
+(connector
+	(pt 5560 2944)
+	(pt 5520 2944)
+)
+(connector
+	(pt 5520 2944)
+	(pt 5520 3160)
+)
+(connector
+	(pt 5520 3160)
+	(pt 5536 3160)
+)
+(connector
+	(pt 5536 3160)
+	(pt 5536 3192)
+)
+(connector
+	(pt 5408 2912)
+	(pt 5408 2944)
+)
+(connector
+	(pt 5408 2944)
+	(pt 5368 2944)
+)
+(connector
+	(pt 5368 2944)
+	(pt 5368 3160)
+)
+(connector
+	(pt 5368 3160)
+	(pt 5384 3160)
+)
+(connector
+	(pt 5384 3160)
+	(pt 5384 3192)
+)
+(connector
+	(pt 5256 2912)
+	(pt 5256 2944)
+)
+(connector
+	(pt 5256 2944)
+	(pt 5216 2944)
+)
+(connector
+	(pt 5216 2944)
+	(pt 5216 3160)
+)
+(connector
+	(pt 5216 3160)
+	(pt 5232 3160)
+)
+(connector
+	(pt 5232 3160)
+	(pt 5232 3192)
+)
+(connector
+	(pt 5104 2912)
+	(pt 5104 2944)
+)
+(connector
+	(pt 5104 2944)
+	(pt 5064 2944)
+)
+(connector
+	(pt 5064 2944)
+	(pt 5064 3160)
+)
+(connector
+	(pt 5064 3160)
+	(pt 5080 3160)
+)
+(connector
+	(pt 5080 3160)
+	(pt 5080 3192)
+)
+(connector
+	(pt 4952 2912)
+	(pt 4952 2944)
+)
+(connector
+	(pt 4952 2944)
+	(pt 4912 2944)
+)
+(connector
+	(pt 4912 2944)
+	(pt 4912 3160)
+)
+(connector
+	(pt 4912 3160)
+	(pt 4928 3160)
+)
+(connector
+	(pt 4928 3160)
+	(pt 4928 3192)
+)
+(connector
+	(pt 4800 2912)
+	(pt 4800 2944)
+)
+(connector
+	(pt 4800 2944)
+	(pt 4760 2944)
+)
+(connector
+	(pt 4760 2944)
+	(pt 4760 3160)
+)
+(connector
+	(pt 4760 3160)
+	(pt 4776 3160)
+)
+(connector
+	(pt 4776 3160)
+	(pt 4776 3192)
+)
+(connector
+	(pt 4648 2912)
+	(pt 4648 2944)
+)
+(connector
+	(pt 4648 2944)
+	(pt 4608 2944)
+)
+(connector
+	(pt 4608 2944)
+	(pt 4608 3160)
+)
+(connector
+	(pt 4608 3160)
+	(pt 4624 3160)
+)
+(connector
+	(pt 4624 3160)
+	(pt 4624 3192)
+)
+(connector
+	(pt 4496 2912)
+	(pt 4496 2944)
+)
+(connector
+	(pt 4496 2944)
+	(pt 4456 2944)
+)
+(connector
+	(pt 4456 2944)
+	(pt 4456 3160)
+)
+(connector
+	(pt 4456 3160)
+	(pt 4472 3160)
+)
+(connector
+	(pt 4472 3160)
+	(pt 4472 3192)
+)
+(connector
+	(pt 8896 3288)
+	(pt 8896 3320)
+)
+(connector
+	(pt 8896 3320)
+	(pt 8928 3320)
+)
+(connector
+	(pt 8928 3320)
+	(pt 8928 3528)
+)
+(connector
+	(pt 8928 3528)
+	(pt 8912 3528)
+)
+(connector
+	(pt 8912 3528)
+	(pt 8912 3552)
+)
+(connector
+	(pt 8744 3288)
+	(pt 8744 3320)
+)
+(connector
+	(pt 8744 3320)
+	(pt 8712 3320)
+)
+(connector
+	(pt 8712 3320)
+	(pt 8712 3504)
+)
+(connector
+	(pt 8712 3504)
+	(pt 8728 3504)
+)
+(connector
+	(pt 8728 3504)
+	(pt 8728 3552)
+)
+(connector
+	(pt 8592 3288)
+	(pt 8592 3320)
+)
+(connector
+	(pt 8592 3320)
+	(pt 8560 3320)
+)
+(connector
+	(pt 8560 3320)
+	(pt 8560 3504)
+)
+(connector
+	(pt 8560 3504)
+	(pt 8576 3504)
+)
+(connector
+	(pt 8576 3504)
+	(pt 8576 3552)
+)
+(connector
+	(pt 8432 3288)
+	(pt 8432 3320)
+)
+(connector
+	(pt 8424 3504)
+	(pt 8424 3552)
+)
+(connector
+	(pt 8432 3320)
+	(pt 8400 3320)
+)
+(connector
+	(pt 8400 3320)
+	(pt 8400 3504)
+)
+(connector
+	(pt 8424 3504)
+	(pt 8400 3504)
 )
 (junction (pt -200 -240))
 (junction (pt -192 -240))
